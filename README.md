@@ -40,8 +40,8 @@ A modern, futuristic EdTech landing page built with React, Tailwind CSS, and Fra
 
 ```bash
 # Clone the repository
-git clone <repo-url>
-cd some-project
+git clone https://github.com/vamshidhar-kasulabada/futurecode-academy
+cd futurecode-academy
 
 # Install dependencies
 npm install
